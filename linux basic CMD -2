@@ -1,0 +1,50 @@
+uptime – Show how long the system has been running
+df -h – Show disk space usage (human-readable)
+du -sh foldername – Show size of a folder
+lsblk – List all block devices
+free -m – Display memory usage in MB
+hostnamectl – Show or set the system hostname
+uname -a – Show system information
+ls -la – List all files with permissions
+clear – Clear the terminal screen
+read filename – Read a value or input from user
+echo "text" – Display a line of text
+history | grep <command> – Search your command history
+alias ll='ls -l' – Create a shortcut/alias
+unalias ll – Remove an alias
+sleep 5 – Delay for 5 seconds
+watch -n 2 command – Run a command repeatedly every 2 seconds
+xargs – Build and execute commands from input
+basename /path/to/file – Get file name from full path
+dirname /path/to/file – Get directory name from full path
+env – List environment variables
+export VAR=value – Set an environment variable
+unset VAR – Remove an environment variable
+printenv – Print environment variable
+diff file1 file2 – Compare two files
+cmp file1 file2 – Byte-by-byte file comparison
+stat filename – Show file information
+tee – Read from stdin and write to file and stdout
+cut -d':' -f1 /etc/passwd – Extract first column
+sort filename – Sort the lines of a file
+uniq – Remove duplicate lines
+wc -l filename – Count lines in a file
+nl filename – Number lines in a file
+yes – Output a string repeatedly until stopped
+timeout 5 command – Run a command with a time limit
+chown user\:group filename – Change file owner and group
+groups – Show groups for current user
+id – Show user ID and group ID
+login – Start a new login session
+logout – Exit from the current session
+locate filename – Quickly find file paths
+updatedb – Update the locate database
+file filename – Determine file type
+find / -name filename – Search for a file
+cron / crontab -e – Schedule tasks
+at – Schedule a one-time task
+kill PID – Terminate a process by PID
+killall processname – Terminate process by name
+bg – Resume a suspended job in the background
+fg – Resume a job in the foreground
+t big list with this new list** and give you a **single master list of 100 Linux commands** with a caption?
